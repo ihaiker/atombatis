@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="atombatis-atombatis_main" target="1.8" />
+      <module name="atombatis-atombatis_test" target="1.8" />
+      <module name="atombatis-core_main" target="1.8" />
+      <module name="atombatis-core_test" target="1.8" />
+      <module name="atombatis-entry_main" target="1.8" />
+      <module name="atombatis-entry_test" target="1.8" />
+      <module name="atombatis-sample_main" target="1.8" />
+      <module name="atombatis-sample_test" target="1.8" />
+      <module name="atombatis-starter_main" target="1.8" />
+      <module name="atombatis-starter_test" target="1.8" />
+      <module name="generator_main" target="1.8" />
+      <module name="generator_test" target="1.8" />
+      <module name="my_main" target="1.8" />
+      <module name="my_test" target="1.8" />
+      <module name="mybatis-_main" target="1.8" />
+      <module name="mybatis-_test" target="1.8" />
+      <module name="mybatis-generator-plugins_main" target="1.8" />
+      <module name="mybatis-generator-plugins_test" target="1.8" />
+      <module name="spring-boot-atombatis-starter_main" target="1.8" />
+      <module name="spring-boot-atombatis-starter_test" target="1.8" />
+      <module name="spring-boot-starter_main" target="1.8" />
+      <module name="spring-boot-starter_test" target="1.8" />
+      <module name="springboot_main" target="1.8" />
+      <module name="springboot_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

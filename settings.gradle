@@ -1,0 +1,4 @@
+rootProject.name = 'atombatis'
+
+include "mybatis-generator-plugins", "atombatis-entry", "spring-boot-atombatis-starter"
+

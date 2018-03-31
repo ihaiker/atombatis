@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="la.renzhen.atombatis.test.mapper.AccountBillMapper" >
+  <resultMap id="BaseResultMap" type="la.renzhen.atombatis.test.entry.AccountBill" >
+    <id column="id" property="id" jdbcType="INTEGER" />
+    <result column="user_id" property="userId" jdbcType="INTEGER" />
+    <result column="operator_id" property="operatorId" jdbcType="VARCHAR" />
+    <result column="from_amt" property="fromAmt" jdbcType="DECIMAL" />
+    <result column="trans_amt" property="transAmt" jdbcType="DECIMAL" />
+    <result column="to_amt" property="toAmt" jdbcType="DECIMAL" />
+    <result column="actual_amt" property="actualAmt" jdbcType="DECIMAL" />
+    <result column="fee" property="fee" jdbcType="DECIMAL" />
+    <result column="charge_fee" property="chargeFee" jdbcType="DECIMAL" />
+    <result column="bond_id" property="bondId" jdbcType="INTEGER" />
+    <result column="bill_type" property="billType" jdbcType="TINYINT" />
+    <result column="status" property="status" jdbcType="TINYINT" />
+    <result column="info" property="info" jdbcType="VARCHAR" />
+    <result column="user_info" property="userInfo" jdbcType="VARCHAR" />
+    <result column="update_time" property="updateTime" jdbcType="TIMESTAMP" />
+    <result column="create_time" property="createTime" jdbcType="TIMESTAMP" />
+  </resultMap>
+  <sql id="Example_Where_Clause" >
+    <where >
+      <foreach collection="oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Update_By_Example_Where_Clause" >
+    <where >
+      <foreach collection="example.oredCriteria" item="criteria" separator="or" >
+        <if test="criteria.valid" >
+          <trim prefix="(" suffix=")" prefixOverrides="and" >
+            <foreach collection="criteria.criteria" item="criterion" >
+              <choose >
+                <when test="criterion.noValue" >
+                  and ${criterion.condition}
+                </when>
+                <when test="criterion.singleValue" >
+                  and ${criterion.condition} #{criterion.value}
+                </when>
+                <when test="criterion.betweenValue" >
+                  and ${criterion.condition} #{criterion.value} and #{criterion.secondValue}
+                </when>
+                <when test="criterion.listValue" >
+                  and ${criterion.condition}
+                  <foreach collection="criterion.value" item="listItem" open="(" close=")" separator="," >
+                    #{listItem}
+                  </foreach>
+                </when>
+              </choose>
+            </foreach>
+          </trim>
+        </if>
+      </foreach>
+    </where>
+  </sql>
+  <sql id="Base_Column_List" >
+    id, user_id, operator_id, from_amt, trans_amt, to_amt, actual_amt, fee, charge_fee, 
+    bond_id, bill_type, status, info, user_info, update_time, create_time
+  </sql>
+  <select id="selectByExample" resultMap="BaseResultMap" parameterType="la.renzhen.atombatis.test.entry.AccountBillExample" >
+    select
+    <if test="distinct" >
+      distinct
+    </if>
+    <include refid="Base_Column_List" />
+    from account_bill_${tableSubfix}
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="orderByClause != null" >
+      order by ${orderByClause}
+    </if>
+    <if test="limit != null" >
+      limit 
+      <if test="offset != null" >
+        ${offset},
+      </if>
+      ${limit}
+    </if>
+  </select>
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="java.lang.Integer" >
+    select 
+    <include refid="Base_Column_List" />
+    from account_bill_${tableSubfix}
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from account_bill_${tableSubfix}
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <delete id="deleteByExample" parameterType="la.renzhen.atombatis.test.entry.AccountBillExample" >
+    delete from account_bill_${tableSubfix}
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+  </delete>
+  <insert id="insert" parameterType="la.renzhen.atombatis.test.entry.AccountBill" >
+    insert into account_bill_${tableSubfix} (id, user_id, operator_id,
+      from_amt, trans_amt, to_amt, 
+      actual_amt, fee, charge_fee, 
+      bond_id, bill_type, status, 
+      info, user_info, update_time, 
+      create_time)
+    values (#{id,jdbcType=INTEGER}, #{userId,jdbcType=INTEGER}, #{operatorId,jdbcType=VARCHAR}, 
+      #{fromAmt,jdbcType=DECIMAL}, #{transAmt,jdbcType=DECIMAL}, #{toAmt,jdbcType=DECIMAL}, 
+      #{actualAmt,jdbcType=DECIMAL}, #{fee,jdbcType=DECIMAL}, #{chargeFee,jdbcType=DECIMAL}, 
+      #{bondId,jdbcType=INTEGER}, #{billType,jdbcType=TINYINT}, #{status,jdbcType=TINYINT}, 
+      #{info,jdbcType=VARCHAR}, #{userInfo,jdbcType=VARCHAR}, #{updateTime,jdbcType=TIMESTAMP}, 
+      #{createTime,jdbcType=TIMESTAMP})
+  </insert>
+  <insert id="insertSelective" parameterType="la.renzhen.atombatis.test.entry.AccountBill" >
+    insert into account_bill_${tableSubfix}
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        id,
+      </if>
+      <if test="userId != null" >
+        user_id,
+      </if>
+      <if test="operatorId != null" >
+        operator_id,
+      </if>
+      <if test="fromAmt != null" >
+        from_amt,
+      </if>
+      <if test="transAmt != null" >
+        trans_amt,
+      </if>
+      <if test="toAmt != null" >
+        to_amt,
+      </if>
+      <if test="actualAmt != null" >
+        actual_amt,
+      </if>
+      <if test="fee != null" >
+        fee,
+      </if>
+      <if test="chargeFee != null" >
+        charge_fee,
+      </if>
+      <if test="bondId != null" >
+        bond_id,
+      </if>
+      <if test="billType != null" >
+        bill_type,
+      </if>
+      <if test="status != null" >
+        status,
+      </if>
+      <if test="info != null" >
+        info,
+      </if>
+      <if test="userInfo != null" >
+        user_info,
+      </if>
+      <if test="updateTime != null" >
+        update_time,
+      </if>
+      <if test="createTime != null" >
+        create_time,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="id != null" >
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="userId != null" >
+        #{userId,jdbcType=INTEGER},
+      </if>
+      <if test="operatorId != null" >
+        #{operatorId,jdbcType=VARCHAR},
+      </if>
+      <if test="fromAmt != null" >
+        #{fromAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="transAmt != null" >
+        #{transAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="toAmt != null" >
+        #{toAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="actualAmt != null" >
+        #{actualAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="fee != null" >
+        #{fee,jdbcType=DECIMAL},
+      </if>
+      <if test="chargeFee != null" >
+        #{chargeFee,jdbcType=DECIMAL},
+      </if>
+      <if test="bondId != null" >
+        #{bondId,jdbcType=INTEGER},
+      </if>
+      <if test="billType != null" >
+        #{billType,jdbcType=TINYINT},
+      </if>
+      <if test="status != null" >
+        #{status,jdbcType=TINYINT},
+      </if>
+      <if test="info != null" >
+        #{info,jdbcType=VARCHAR},
+      </if>
+      <if test="userInfo != null" >
+        #{userInfo,jdbcType=VARCHAR},
+      </if>
+      <if test="updateTime != null" >
+        #{updateTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="createTime != null" >
+        #{createTime,jdbcType=TIMESTAMP},
+      </if>
+    </trim>
+  </insert>
+  <select id="countByExample" parameterType="la.renzhen.atombatis.test.entry.AccountBillExample" resultType="java.lang.Integer" >
+    select count(*) from account_bill_${tableSubfix}
+    <if test="_parameter != null" >
+      <include refid="Example_Where_Clause" />
+    </if>
+    <if test="limit != null" >
+      limit 
+      <if test="offset != null" >
+        ${offset},
+      </if>
+      ${limit}
+    </if>
+  </select>
+  <update id="updateByExampleSelective" parameterType="map" >
+    update account_bill_${record.tableSubfix}
+    <set >
+      <if test="record.id != null" >
+        id = #{record.id,jdbcType=INTEGER},
+      </if>
+      <if test="record.userId != null" >
+        user_id = #{record.userId,jdbcType=INTEGER},
+      </if>
+      <if test="record.operatorId != null" >
+        operator_id = #{record.operatorId,jdbcType=VARCHAR},
+      </if>
+      <if test="record.fromAmt != null" >
+        from_amt = #{record.fromAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="record.transAmt != null" >
+        trans_amt = #{record.transAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="record.toAmt != null" >
+        to_amt = #{record.toAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="record.actualAmt != null" >
+        actual_amt = #{record.actualAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="record.fee != null" >
+        fee = #{record.fee,jdbcType=DECIMAL},
+      </if>
+      <if test="record.chargeFee != null" >
+        charge_fee = #{record.chargeFee,jdbcType=DECIMAL},
+      </if>
+      <if test="record.bondId != null" >
+        bond_id = #{record.bondId,jdbcType=INTEGER},
+      </if>
+      <if test="record.billType != null" >
+        bill_type = #{record.billType,jdbcType=TINYINT},
+      </if>
+      <if test="record.status != null" >
+        status = #{record.status,jdbcType=TINYINT},
+      </if>
+      <if test="record.info != null" >
+        info = #{record.info,jdbcType=VARCHAR},
+      </if>
+      <if test="record.userInfo != null" >
+        user_info = #{record.userInfo,jdbcType=VARCHAR},
+      </if>
+      <if test="record.updateTime != null" >
+        update_time = #{record.updateTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="record.createTime != null" >
+        create_time = #{record.createTime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByExample" parameterType="map" >
+    update account_bill_${record.tableSubfix}
+    set id = #{record.id,jdbcType=INTEGER},
+      user_id = #{record.userId,jdbcType=INTEGER},
+      operator_id = #{record.operatorId,jdbcType=VARCHAR},
+      from_amt = #{record.fromAmt,jdbcType=DECIMAL},
+      trans_amt = #{record.transAmt,jdbcType=DECIMAL},
+      to_amt = #{record.toAmt,jdbcType=DECIMAL},
+      actual_amt = #{record.actualAmt,jdbcType=DECIMAL},
+      fee = #{record.fee,jdbcType=DECIMAL},
+      charge_fee = #{record.chargeFee,jdbcType=DECIMAL},
+      bond_id = #{record.bondId,jdbcType=INTEGER},
+      bill_type = #{record.billType,jdbcType=TINYINT},
+      status = #{record.status,jdbcType=TINYINT},
+      info = #{record.info,jdbcType=VARCHAR},
+      user_info = #{record.userInfo,jdbcType=VARCHAR},
+      update_time = #{record.updateTime,jdbcType=TIMESTAMP},
+      create_time = #{record.createTime,jdbcType=TIMESTAMP}
+    <if test="_parameter != null" >
+      <include refid="Update_By_Example_Where_Clause" />
+    </if>
+  </update>
+  <update id="updateByPrimaryKeySelective" parameterType="la.renzhen.atombatis.test.entry.AccountBill" >
+    update account_bill_${tableSubfix}
+    <set >
+      <if test="userId != null" >
+        user_id = #{userId,jdbcType=INTEGER},
+      </if>
+      <if test="operatorId != null" >
+        operator_id = #{operatorId,jdbcType=VARCHAR},
+      </if>
+      <if test="fromAmt != null" >
+        from_amt = #{fromAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="transAmt != null" >
+        trans_amt = #{transAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="toAmt != null" >
+        to_amt = #{toAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="actualAmt != null" >
+        actual_amt = #{actualAmt,jdbcType=DECIMAL},
+      </if>
+      <if test="fee != null" >
+        fee = #{fee,jdbcType=DECIMAL},
+      </if>
+      <if test="chargeFee != null" >
+        charge_fee = #{chargeFee,jdbcType=DECIMAL},
+      </if>
+      <if test="bondId != null" >
+        bond_id = #{bondId,jdbcType=INTEGER},
+      </if>
+      <if test="billType != null" >
+        bill_type = #{billType,jdbcType=TINYINT},
+      </if>
+      <if test="status != null" >
+        status = #{status,jdbcType=TINYINT},
+      </if>
+      <if test="info != null" >
+        info = #{info,jdbcType=VARCHAR},
+      </if>
+      <if test="userInfo != null" >
+        user_info = #{userInfo,jdbcType=VARCHAR},
+      </if>
+      <if test="updateTime != null" >
+        update_time = #{updateTime,jdbcType=TIMESTAMP},
+      </if>
+      <if test="createTime != null" >
+        create_time = #{createTime,jdbcType=TIMESTAMP},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="la.renzhen.atombatis.test.entry.AccountBill" >
+    update account_bill_${tableSubfix}
+    set user_id = #{userId,jdbcType=INTEGER},
+      operator_id = #{operatorId,jdbcType=VARCHAR},
+      from_amt = #{fromAmt,jdbcType=DECIMAL},
+      trans_amt = #{transAmt,jdbcType=DECIMAL},
+      to_amt = #{toAmt,jdbcType=DECIMAL},
+      actual_amt = #{actualAmt,jdbcType=DECIMAL},
+      fee = #{fee,jdbcType=DECIMAL},
+      charge_fee = #{chargeFee,jdbcType=DECIMAL},
+      bond_id = #{bondId,jdbcType=INTEGER},
+      bill_type = #{billType,jdbcType=TINYINT},
+      status = #{status,jdbcType=TINYINT},
+      info = #{info,jdbcType=VARCHAR},
+      user_info = #{userInfo,jdbcType=VARCHAR},
+      update_time = #{updateTime,jdbcType=TIMESTAMP},
+      create_time = #{createTime,jdbcType=TIMESTAMP}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+</mapper>

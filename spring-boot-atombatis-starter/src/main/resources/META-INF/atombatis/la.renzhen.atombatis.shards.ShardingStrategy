@@ -1,0 +1,2 @@
+cpush=la.renzhen.atombatis.shards.CPushShardingStrategy
+mold=la.renzhen.atombatis.shards.MoldShardingStrategy

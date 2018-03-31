@@ -1,0 +1,35 @@
+atombatis:
+  scan-mapper: la.renzhen.atombatis.test
+
+  databases:
+    db1:
+      url: jdbc:mysql://${db1.address}/test?zeroDateTimeBehavior=convertToNull
+      username: ${db1.username}
+      password: ${db1.password}
+
+    db2:
+      url: jdbc:mysql://${db2.address}/test?zeroDateTimeBehavior=convertToNull
+      username: ${db2.username}
+      password: ${db2.password}
+
+  strategy-def:
+    database: cpush
+
+    table: cpush
+    table-parameter:
+      shardSize: 8
+
+  enable-jta: true
+
+mybatis:
+  mapper-locations: classpath*:la/renzhen/atombatis/test/mapper/*.xml
+  type-aliases-package: la.renzhen.atombatis.test.entry
+  configuration:
+    lazy-loading-enabled: false
+
+spring:
+  jta:
+    atomikos:
+      properties:
+        service: com.atomikos.icatch.standalone.UserTransactionServiceFactory
+        force-shutdown-on-vm-exit: true

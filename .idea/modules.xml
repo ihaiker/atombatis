@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atombatis.iml" filepath="$PROJECT_DIR$/.idea/modules/atombatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry.iml" filepath="$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry.iml" group="atombatis-entry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry_main.iml" group="atombatis-entry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/atombatis-entry/atombatis-entry_test.iml" group="atombatis-entry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins.iml" group="mybatis-generator-plugins" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins_main.iml" group="mybatis-generator-plugins" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mybatis-generator-plugins/mybatis-generator-plugins_test.iml" group="mybatis-generator-plugins" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter.iml" group="spring-boot-atombatis-starter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter_main.iml" group="spring-boot-atombatis-starter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-atombatis-starter/spring-boot-atombatis-starter_test.iml" group="spring-boot-atombatis-starter" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1020446-57f7-4994-bbec-3d52c526bf37" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis/.gradle/" />
+    <ignored path="$PROJECT_DIR$/atombatis/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis/out/" />
+    <ignored path="$PROJECT_DIR$/springboot/.gradle/" />
+    <ignored path="$PROJECT_DIR$/springboot/build/" />
+    <ignored path="$PROJECT_DIR$/springboot/out/" />
+    <ignored path="$PROJECT_DIR$/my/.gradle/" />
+    <ignored path="$PROJECT_DIR$/my/build/" />
+    <ignored path="$PROJECT_DIR$/my/out/" />
+    <ignored path="$PROJECT_DIR$/generator/.gradle/" />
+    <ignored path="$PROJECT_DIR$/generator/build/" />
+    <ignored path="$PROJECT_DIR$/generator/out/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-starter/out/" />
+    <ignored path="$PROJECT_DIR$/mybatis-/.gradle/" />
+    <ignored path="$PROJECT_DIR$/mybatis-/build/" />
+    <ignored path="$PROJECT_DIR$/mybatis-/out/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-plugins/.gradle/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-plugins/build/" />
+    <ignored path="$PROJECT_DIR$/mybatis-generator-plugins/out/" />
+    <ignored path="$PROJECT_DIR$/atombatis-entry/.gradle/" />
+    <ignored path="$PROJECT_DIR$/atombatis-entry/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis-entry/out/" />
+    <ignored path="$PROJECT_DIR$/atombatis-core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/atombatis-core/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis-core/out/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-atombatis-starter/.gradle/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-atombatis-starter/build/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-atombatis-starter/out/" />
+    <ignored path="spring-boot-atombatis-starter/transaction-logs/10.16.74.57.tm1.epoch" />
+    <ignored path="$PROJECT_DIR$/atombatis-sample/.gradle/" />
+    <ignored path="$PROJECT_DIR$/atombatis-sample/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis-sample/out/" />
+    <ignored path="$PROJECT_DIR$/atombatis-starter/.gradle/" />
+    <ignored path="$PROJECT_DIR$/atombatis-starter/build/" />
+    <ignored path="$PROJECT_DIR$/atombatis-starter/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/atombatis$ApplicationTest_testConfig.coverage" NAME="ApplicationTest.testConfig Coverage Results" MODIFIED="1521813904086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23301" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23301" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23301" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23301" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23302" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23302" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23302" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="trade2: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23302" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="trade2: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.92.96.199@23302" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="trade2: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="routines" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/springboot">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/generator">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-starter">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/mybatis-generator-plugins">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/atombatis">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/atombatis-core">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-atombatis-starter">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/atombatis-sample">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/atombatis-starter">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":mybatis-generator-plugins" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":mybatis-generator-plugins" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-atombatis-starter" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-atombatis-starter" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-atombatis-starter" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="atombatis" type="f1a62948:ProjectNode" />
+                <item name=":spring-boot-atombatis-starter" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="atombatis" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/server/UserServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AtomBatisAutoConfiguration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisAutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="88" column="30" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zhouhaichao@2008.sina.com</find>
+      <find>Example</find>
+      <find>addCriterion</find>
+      <find>Criteria</find>
+      <find>Long</find>
+      <find>, values, &quot;id&quot;);</find>
+      <find>SlaveSelect</find>
+      <find>resolveBeanClass</find>
+      <find>ShardingField</find>
+      <find>private</find>
+      <find>processPropertyPlaceHolders</find>
+      <find>getMapperLocations</find>
+      <find>load default config</find>
+      <find>table_subfix</find>
+      <find>RoutingDataSource</find>
+      <find>getConnection</find>
+      <find>connection</find>
+      <find>VendorDatabaseIdProvider</find>
+      <find>ven</find>
+      <find>vendor</find>
+      <find>Atom</find>
+      <find>AtomikosJtaConfiguration</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Criterion</replace>
+      <replace>Object</replace>
+      <replace>;</replace>
+      <replace>ShardSelect</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\gradle" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.5.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="atombatis" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="atombatis" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":atombatis-entry" />
+                <option name="path" value="$PROJECT_DIR$/atombatis-entry" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":mybatis-generator-plugins" />
+                <option name="path" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":spring-boot-atombatis-starter" />
+                <option name="path" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'atombatis'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'atombatis'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="sourceJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'atombatis'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'atombatis'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'atombatis'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'atombatis' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'atombatis'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'atombatis'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':atombatis-entry:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'atombatis'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/atombatis-entry">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':atombatis-entry'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="sourceJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':atombatis-entry'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':atombatis-entry'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':atombatis-entry:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':atombatis-entry'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/atombatis-entry" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mybatis-generator-plugins">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':mybatis-generator-plugins'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="sourceJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':mybatis-generator-plugins'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':mybatis-generator-plugins'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':mybatis-generator-plugins:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':mybatis-generator-plugins'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/spring-boot-atombatis-starter">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':spring-boot-atombatis-starter'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="sourceJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':spring-boot-atombatis-starter'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':spring-boot-atombatis-starter'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':spring-boot-atombatis-starter:archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':spring-boot-atombatis-starter'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Documents/project/muguang/projects/push-center" value="2876171692000" />
+        <entry key="$USER_HOME$/Documents/project/newlest/MusicPlayer/QingFengMusic" value="2954382100000" />
+        <entry key="$PROJECT_DIR$" value="9131667863951" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/atombatis-core/build.gradle" value="3300323450" />
+        <entry key="$PROJECT_DIR$/atombatis-entry/build.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/atombatis-sample/build.gradle" value="2168001590" />
+        <entry key="$PROJECT_DIR$/atombatis-starter/build.gradle" value="2856254149" />
+        <entry key="$PROJECT_DIR$/atombatis/build.gradle" value="2539957538" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2270676859" />
+        <entry key="$PROJECT_DIR$/generator/build.gradle" value="1487460679" />
+        <entry key="$PROJECT_DIR$/gradle.properties" value="3532692471" />
+        <entry key="$PROJECT_DIR$/mybatis-generator-plugins/build.gradle" value="1218118821" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2245577167" />
+        <entry key="$PROJECT_DIR$/spring-boot-atombatis-starter/build.gradle" value="2856254149" />
+        <entry key="$PROJECT_DIR$/spring-boot-starter/build.gradle" value="3557547855" />
+        <entry key="$PROJECT_DIR$/springboot/build.gradle" value="3557547855" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/atombatis">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/atombatis" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/atombatis-core">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/atombatis-core" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/atombatis-entry">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/atombatis-entry" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/atombatis-sample">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/atombatis-sample" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/atombatis-starter">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/eb1d7232a90469dd12946582bb9a99b84aa632c/spring-boot-gradle-plugin-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/4f3d6d5164784c51959db58bfc438c7ee44e0c5c/spring-boot-gradle-plugin-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/61791907844a11bcea7eca8fb8ca853c9a95421a/spring-boot-loader-tools-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/5ce69eaa5709ccff5b4db4a85abfae16affa107a/spring-boot-loader-tools-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/7bb9ab86474b9ff2e7aa8ea3609878a1750e3f90/dependency-management-plugin-1.0.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/c7fc988680e19cef9bf91de0c39b891e4c8dca2d/dependency-management-plugin-1.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/fc9cf4f489515d429b005ee86ef105a704a94016/spring-core-4.3.13.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/atombatis-starter" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/generator">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/generator" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/my">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/my" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/mybatis-">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/mybatis-" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/mybatis-generator-plugins">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/mybatis-generator-plugins" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/spring-boot-atombatis-starter">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/eb1d7232a90469dd12946582bb9a99b84aa632c/spring-boot-gradle-plugin-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/4f3d6d5164784c51959db58bfc438c7ee44e0c5c/spring-boot-gradle-plugin-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/61791907844a11bcea7eca8fb8ca853c9a95421a/spring-boot-loader-tools-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/5ce69eaa5709ccff5b4db4a85abfae16affa107a/spring-boot-loader-tools-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/7bb9ab86474b9ff2e7aa8ea3609878a1750e3f90/dependency-management-plugin-1.0.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/c7fc988680e19cef9bf91de0c39b891e4c8dca2d/dependency-management-plugin-1.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/fc9cf4f489515d429b005ee86ef105a704a94016/spring-core-4.3.13.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/spring-boot-starter">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/eb1d7232a90469dd12946582bb9a99b84aa632c/spring-boot-gradle-plugin-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/4f3d6d5164784c51959db58bfc438c7ee44e0c5c/spring-boot-gradle-plugin-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/61791907844a11bcea7eca8fb8ca853c9a95421a/spring-boot-loader-tools-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/5ce69eaa5709ccff5b4db4a85abfae16affa107a/spring-boot-loader-tools-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/7bb9ab86474b9ff2e7aa8ea3609878a1750e3f90/dependency-management-plugin-1.0.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/c7fc988680e19cef9bf91de0c39b891e4c8dca2d/dependency-management-plugin-1.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/fc9cf4f489515d429b005ee86ef105a704a94016/spring-core-4.3.13.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/spring-boot-starter" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/springboot">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/eb1d7232a90469dd12946582bb9a99b84aa632c/spring-boot-gradle-plugin-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.9.RELEASE/4f3d6d5164784c51959db58bfc438c7ee44e0c5c/spring-boot-gradle-plugin-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/61791907844a11bcea7eca8fb8ca853c9a95421a/spring-boot-loader-tools-1.5.9.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.5.9.RELEASE/5ce69eaa5709ccff5b4db4a85abfae16affa107a/spring-boot-loader-tools-1.5.9.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/7bb9ab86474b9ff2e7aa8ea3609878a1750e3f90/dependency-management-plugin-1.0.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.3.RELEASE/c7fc988680e19cef9bf91de0c39b891e4c8dca2d/dependency-management-plugin-1.0.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/fc9cf4f489515d429b005ee86ef105a704a94016/spring-core-4.3.13.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/springboot" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="atombatis" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/gradle/lib/ant-1.9.6.jar" />
+                  <option value="D:/gradle/lib/ant-launcher-1.9.6.jar" />
+                  <option value="D:/gradle/lib/gradle-base-services-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-base-services-groovy-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-cli-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-core-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-docs-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-installation-beacon-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-jvm-services-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-launcher-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-logging-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-messaging-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-model-core-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-model-groovy-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-native-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-open-api-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-process-services-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-resources-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-runtime-api-info-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-script-kotlin-0.8.0.jar" />
+                  <option value="D:/gradle/lib/gradle-tooling-api-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-ui-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-version-info-3.5.1.jar" />
+                  <option value="D:/gradle/lib/gradle-wrapper-3.5.1.jar" />
+                  <option value="D:/gradle/lib/groovy-all-2.4.10.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-announce-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-antlr-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-build-cache-http-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-build-comparison-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-build-init-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-code-quality-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-composite-builds-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-dependency-management-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-diagnostics-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-ear-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-ide-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-ide-native-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-ide-play-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-ivy-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-jacoco-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-javascript-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-jetty-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-language-groovy-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-language-java-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-language-jvm-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-language-native-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-language-scala-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-maven-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-osgi-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-platform-base-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-platform-jvm-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-platform-native-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-platform-play-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-plugin-development-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-plugin-use-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-plugins-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-publish-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-reporting-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-resources-http-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-resources-s3-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-resources-sftp-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-scala-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-signing-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-test-kit-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-testing-base-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-testing-jvm-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-testing-native-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-tooling-api-builders-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/gradle-workers-3.5.1.jar" />
+                  <option value="D:/gradle/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/project/myself/Android/91pron" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/project/yipingfang/project/activity" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/project/yipingfang/project/gateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../account" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../activity" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../commons" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../password" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../trade" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../user" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/atombatis-starter/build.gradle" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/test/java/la/renzhen/atombatis/test/ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/DataSourceBuilder.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisProperties.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/main/java/la/renzhen/atombatis/spring/AtomBatisMapperFactoryBean.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/main/java/la/renzhen/atombatis/plugins/AtomBatisSamplePlugin.java" />
+        <option value="$PROJECT_DIR$/atombatis-starter/src/test/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/registrar/MapperRegistrar.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/shards/ShardingStrategy.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/TestAAA.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/shards/MoldShardingStrategy.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/shards/CPushShardingStrategy.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e978f7d0-fd9d-4473-8c90-c78eaa13b14d/console_2.sql" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/TestAttr.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisProperties.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/TestBeanUtils.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/TestGenerator.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/entry/AccountBillExample.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/entry/AccountBill.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/TestG.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-plugins/src/main/java/la/renzhen/db/atombatis/generator/plugins/PluginAdapterEnhance.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-plugins/src/main/java/la/renzhen/db/atombatis/generator/plugins/TableSubfixPlugin.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/mapper/AccountBillMapper.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee0a6960-520d-4ed7-94f5-55c064dc3daf/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e978f7d0-fd9d-4473-8c90-c78eaa13b14d/console.sql" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/intre/DynamicPlugin.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/interceptor/DynamicPlugin.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/resources/transactions.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/resources/jta.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/EnableAtomBatisConfiguration.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/DataSourceBuilder.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/ContextHolder.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/shards/StrategyManager.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/Routing.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/RoutingDataSource.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/MybatisProperties.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/MybatisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/SpringBootVFS.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/build.gradle" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/AtomBatisMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/AtomBatisMapperFactoryBean.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/batis/RoutingSqlSessionFactory.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/batis/RoutingSqlSessionTemplate.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/server/UserServer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-216" />
+    <option name="y" value="-1088" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="atombatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atombatis" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-atomikos/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="la.atombatis.db" />
+      <recent name="la.renzhen.db.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\atombatis\atombatis-starter\src\main\java\la\renzhen\atombatis" />
+      <recent name="D:\project\atombatis\atombatis-starter\src\main\resources\META-INF\atombatis" />
+      <recent name="D:\project\atombatis\atombatis-starter\src\main\resources\META-INF" />
+      <recent name="D:\project\atombatis\atombatis-starter\src\test\resources" />
+      <recent name="D:\project\atombatis\atombatis-sample" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="la.renzhen.atombatis.batis" />
+      <recent name="la.renzhen.atombatis.test" />
+      <recent name="la.renzhen.atombatis.plugins" />
+      <recent name="la.renzhen.atombatis.spring" />
+      <recent name="la.renzhen.atombatis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\atombatis\spring-boot-atombatis-starter\src\test\resources" />
+      <recent name="D:\project\atombatis\generator" />
+      <recent name="D:\project\atombatis\atombatis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ApplicationTests.testAll">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ApplicationTests.testAll" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;la.renzhen.atombatis.test.ApplicationTests.testAll&quot; --info" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-atombatis-starter:cleanTest" />
+            <option value=":spring-boot-atombatis-starter:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ApplicationTests.testGet" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;la.renzhen.atombatis.test.ApplicationTests.testGet&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-atombatis-starter:cleanTest" />
+            <option value=":spring-boot-atombatis-starter:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ApplicationTests.testInsert" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;la.renzhen.atombatis.test.ApplicationTests.testInsert&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-atombatis-starter:cleanTest" />
+            <option value=":spring-boot-atombatis-starter:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ApplicationTests.testServer" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;la.renzhen.atombatis.test.ApplicationTests.testServer&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-atombatis-starter:cleanTest" />
+            <option value=":spring-boot-atombatis-starter:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="TestGenerator.testGenerator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-boot-atombatis-starter" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;la.renzhen.atombatis.test.TestGenerator.testGenerator&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-atombatis-starter:cleanTest" />
+            <option value=":spring-boot-atombatis-starter:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ApplicationTests.testServer" />
+      <item itemvalue="Gradle.ApplicationTests.testInsert" />
+      <item itemvalue="Gradle.ApplicationTests.testGet" />
+      <item itemvalue="Gradle.TestGenerator.testGenerator" />
+      <item itemvalue="Gradle.ApplicationTests.testAll" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApplicationTests.testAll" />
+        <item itemvalue="Gradle.ApplicationTests.testServer" />
+        <item itemvalue="Gradle.ApplicationTests.testInsert" />
+        <item itemvalue="Gradle.ApplicationTests.testGet" />
+        <item itemvalue="Gradle.TestGenerator.testGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1020446-57f7-4994-bbec-3d52c526bf37" name="Default" comment="" />
+      <created>1521439181965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521439181965</updated>
+      <workItem from="1521439183586" duration="2838000" />
+      <workItem from="1521442729245" duration="18016000" />
+      <workItem from="1521512059119" duration="24783000" />
+      <workItem from="1521599691118" duration="10528000" />
+      <workItem from="1521615791718" duration="272000" />
+      <workItem from="1521616094089" duration="322000" />
+      <workItem from="1521616451112" duration="2387000" />
+      <workItem from="1521621146087" duration="16907000" />
+      <workItem from="1521687394803" duration="26293000" />
+      <workItem from="1521770562069" duration="33029000" />
+      <workItem from="1521861358575" duration="26405000" />
+      <workItem from="1521890318487" duration="23000" />
+      <workItem from="1521890975682" duration="4816000" />
+      <workItem from="1521944913298" duration="22661000" />
+      <workItem from="1522034170879" duration="5210000" />
+      <workItem from="1522062678866" duration="6603000" />
+      <workItem from="1522117827465" duration="4500000" />
+      <workItem from="1522130425595" duration="21309000" />
+      <workItem from="1522203445347" duration="1794000" />
+      <workItem from="1522206258027" duration="604000" />
+      <workItem from="1522207218832" duration="578000" />
+      <workItem from="1522207844116" duration="8492000" />
+      <workItem from="1522224070542" duration="361000" />
+      <workItem from="1522224476778" duration="374000" />
+      <workItem from="1522224901402" duration="1530000" />
+      <workItem from="1522226482710" duration="864000" />
+      <workItem from="1522227396550" duration="14003000" />
+      <workItem from="1522290470442" duration="197000" />
+      <workItem from="1522290758293" duration="30000" />
+      <workItem from="1522290840727" duration="19997000" />
+      <workItem from="1522321912350" duration="22112000" />
+      <workItem from="1522394314821" duration="4556000" />
+      <workItem from="1522402589642" duration="691000" />
+      <workItem from="1522472980828" duration="15362000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1521530687811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521530687811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1521531091977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521531091977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1521531860260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521531860260</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1521533288241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1521533288241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1521537798356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521537798356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1521537841271</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521537841271</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1521548099577</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521548099577</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1521600023066</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521600023067</updated>
+    </task>
+    <task id="LOCAL-00009" summary="init">
+      <created>1521700761764</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521700761764</updated>
+    </task>
+    <task id="LOCAL-00010" summary="init">
+      <created>1521715350800</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521715350800</updated>
+    </task>
+    <task id="LOCAL-00011" summary="init">
+      <created>1521792939792</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1521792939792</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init">
+      <created>1521796819879</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1521796819879</updated>
+    </task>
+    <task id="LOCAL-00013" summary="init">
+      <created>1521803297915</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1521803297915</updated>
+    </task>
+    <task id="LOCAL-00014" summary="init">
+      <created>1521804868544</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1521804868544</updated>
+    </task>
+    <task id="LOCAL-00015" summary="init">
+      <created>1521863943558</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521863943558</updated>
+    </task>
+    <task id="LOCAL-00016" summary="init">
+      <created>1521884799071</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1521884799071</updated>
+    </task>
+    <task id="LOCAL-00017" summary="init">
+      <created>1521892873563</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1521892873563</updated>
+    </task>
+    <task id="LOCAL-00018" summary="init">
+      <created>1521966417556</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1521966417556</updated>
+    </task>
+    <task id="LOCAL-00019" summary="init">
+      <created>1522063225844</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1522063225844</updated>
+    </task>
+    <task id="LOCAL-00020" summary="init">
+      <created>1522159378912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1522159378912</updated>
+    </task>
+    <task id="LOCAL-00021" summary="init">
+      <created>1522159447422</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1522159447422</updated>
+    </task>
+    <task id="LOCAL-00022" summary="init">
+      <created>1522229625990</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1522229625990</updated>
+    </task>
+    <task id="LOCAL-00023" summary="init">
+      <created>1522312481283</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1522312481283</updated>
+    </task>
+    <task id="LOCAL-00024" summary="init">
+      <created>1522314213013</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1522314213013</updated>
+    </task>
+    <task id="LOCAL-00025" summary="init">
+      <created>1522316836136</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1522316836136</updated>
+    </task>
+    <task id="LOCAL-00026" summary="init">
+      <created>1522319064370</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1522319064370</updated>
+    </task>
+    <task id="LOCAL-00027" summary="init">
+      <created>1522480056843</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1522480056843</updated>
+    </task>
+    <task id="LOCAL-00028" summary="init">
+      <created>1522490687307</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1522490687307</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 33m 55s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 38m 53s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 41m 52s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 47m 07s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 52m 25s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 53m 04s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 58m 30s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 17h 59m 25s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 18h 01m 36s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="ApplicationTests_testAll - 2018.03.31 at 18h 03m 04s.xml">
+      <configuration name="ApplicationTests.testAll" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="318447000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-216" y="-1088" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5030211" side_tool="true" weight="0.51769465" />
+      <window_info anchor="right" id="Redis Servers" order="11" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.18530351" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32962587" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Remote Host" order="5" weight="0.32930514" />
+      <window_info id="Designer" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.21086262" />
+      <window_info anchor="bottom" id="Build" order="9" sideWeight="0.49574015" weight="0.36097068" />
+      <window_info anchor="right" id="Database" order="6" weight="0.2454739" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" x="0" y="22" width="1366" height="716" id="Debug" order="14" sideWeight="0.5042598" weight="0.41860464" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32861477" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="bottom" x="0" y="0" width="1366" height="738" id="Run" internal_type="WINDOWED" order="8" type="FLOATING" weight="0.5480283" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4978701" weight="0.32962587" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32962587" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49697885" visible="true" weight="0.520728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5844287" visible="true" weight="0.21671991" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.39737108" />
+      <window_info anchor="right" id="Gradle" order="10" weight="0.26091588" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Favorites" order="5" sideWeight="0.41557127" side_tool="true" weight="0.24440895" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.27547932" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32962587" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atombatis-core/src/test/java/la/renzhen/db/test/server/AtomBatisTestServer.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atombatis-core/src/main/java/la/renzhen/db/atombatis/shard/CPushShardingStrategy.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atombatis-core/src/test/java/la/renzhen/db/atombatis/SingleTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/db/boot/ApplicationTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.13.RELEASE/a6f8399503df590a81926cf33dc787b6629edad3/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/AtomBatisMapperFactoryBean.java</url>
+          <line>107</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="216" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/plugins/AtomBatisSamplePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.13.RELEASE/a6f8399503df590a81926cf33dc787b6629edad3/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="e#2409#2410#0" expanded="true" />
+            <element signature="e#2458#2459#0" expanded="true" />
+            <element signature="e#5474#5475#0" expanded="true" />
+            <element signature="e#5497#5498#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/shards/CPushShardingStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0-sources.jar!/org/mybatis/spring/boot/autoconfigure/ConfigurationCustomizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/ObjectProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/MybatisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/SpringBootVFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/MybatisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-740">
+          <caret line="41" column="56" lean-forward="true" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/Routing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1612">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/AtomBatisMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/SqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/ContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.13.RELEASE/f49d7d5bbe41c6fb0ff493b73ccb4bf135afde5d/spring-tx-4.3.13.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="534" selection-start-line="534" selection-end-line="534" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.13.RELEASE/f49d7d5bbe41c6fb0ff493b73ccb4bf135afde5d/spring-tx-4.3.13.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="64" column="54" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.13.RELEASE/a6f8399503df590a81926cf33dc787b6629edad3/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/datasource/ConnectionHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="e#2376#2377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.13.RELEASE/f49d7d5bbe41c6fb0ff493b73ccb4bf135afde5d/spring-tx-4.3.13.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.13.RELEASE/f49d7d5bbe41c6fb0ff493b73ccb4bf135afde5d/spring-tx-4.3.13.RELEASE-sources.jar!/org/springframework/transaction/support/ResourceHolderSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#4417#4418#0" expanded="true" />
+            <element signature="e#4445#4446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.13.RELEASE/f49d7d5bbe41c6fb0ff493b73ccb4bf135afde5d/spring-tx-4.3.13.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionSynchronizationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+          <folding>
+            <element signature="e#10809#10810#0" expanded="true" />
+            <element signature="e#10855#10856#0" expanded="true" />
+            <element signature="e#14454#14455#0" expanded="true" />
+            <element signature="e#14493#14494#0" expanded="true" />
+            <element signature="e#18470#18471#0" expanded="true" />
+            <element signature="e#18522#18523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/transaction/SpringManagedTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="e#6401#6402#0" expanded="true" />
+            <element signature="e#8900#8901#0" expanded="true" />
+            <element signature="e#8955#8956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar!/org/springframework/cglib/proxy/Proxy.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/DataSourceBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="105" column="46" selection-start-line="105" selection-start-column="46" selection-end-line="105" selection-end-column="46" />
+          <folding>
+            <element signature="method#initDef#0;class#DataSourceBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_131/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="359" column="25" selection-start-line="359" selection-start-column="25" selection-end-line="359" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.13.RELEASE/eea18d7f4d01f1baa1b6728b678b5a6fe23c61f6/spring-core-4.3.13.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="115" selection-start-line="35" selection-start-column="115" selection-end-line="35" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.13.RELEASE/9ee1b6e02065f01bf401c3cb4dbaf138009e1866/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="357" selection-start-line="357" selection-end-line="357" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="587" selection-start-line="587" selection-end-line="587" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.13.RELEASE/5e55eefa667944084e88a16b71b83f8381afb69c/spring-beans-4.3.13.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/datasource/RoutingDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1096#1097#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/batis/RoutingSqlSessionTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="18" column="87" selection-start-line="18" selection-start-column="87" selection-end-line="18" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/batis/RoutingSqlSessionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/mapping/Environment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1120">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="23" />
+          <folding>
+            <element signature="e#14929#14930#0" expanded="true" />
+            <element signature="e#14965#14966#0" expanded="true" />
+            <element signature="e#24418#24419#0" expanded="true" />
+            <element signature="e#24477#24478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1498">
+          <caret line="164" column="24" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="24" />
+          <folding>
+            <element signature="e#4302#4303#0" expanded="true" />
+            <element signature="e#4332#4333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.0/mybatis-spring-boot-autoconfigure-1.3.0-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.13.RELEASE/a6f8399503df590a81926cf33dc787b6629edad3/spring-jdbc-4.3.13.RELEASE-sources.jar!/org/springframework/jdbc/datasource/DataSourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/AtomBatisMapperFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/test/java/la/renzhen/atombatis/test/server/UserServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-atombatis-starter/src/main/java/la/renzhen/atombatis/spring/boot/AtomBatisAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="88" column="30" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>atombatis-sample_main|atombatis-sample</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17244095" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

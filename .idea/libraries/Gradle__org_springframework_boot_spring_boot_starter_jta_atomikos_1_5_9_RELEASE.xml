@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.boot:spring-boot-starter-jta-atomikos:1.5.9.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jta-atomikos/1.5.9.RELEASE/ec2d53436ca21e43daf1fb812f49bfeed5e2c91a/spring-boot-starter-jta-atomikos-1.5.9.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jta-atomikos/1.5.9.RELEASE/e6993a7f2c00c04ab29c8a71ba3694bfb83caf53/spring-boot-starter-jta-atomikos-1.5.9.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,79 @@
+group 'la.renzhen.db'
+version '0.0.1-SNAPSHOT'
+
+ext {
+    springVersion = "4.3.13.RELEASE"
+    springBootVersion = '1.5.9.RELEASE'
+    springCloudVersion = 'Edgware.RELEASE'
+
+    lombokVersion = "1.16.20"
+    druidVersion = "1.1.9"
+
+    guavaVersion = "23.0"
+
+    mysqlDriverVersion = "5.1.45"
+    junitVersion = "4.12"
+    slf4jVersion = "1.7.25"
+
+    nexusHost = System.getProperty("nexus.host")
+    nexusUser = System.getProperty("nexus.user")
+    nexusPassword = System.getProperty("nexus.password")
+}
+
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+    apply plugin: 'maven'
+
+    ext {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+        [compileJava, compileTestJava, javadoc]*.options*.encoding = 'UTF-8'
+    }
+
+    idea {
+        module {
+            downloadSources = true
+        }
+    }
+
+    repositories {
+        mavenLocal()
+        maven { url "http://maven.aliyun.com/nexus/content/groups/public" }
+        mavenCentral()
+    }
+
+    dependencies {
+        compileOnly "org.projectlombok:lombok:${lombokVersion}"
+        testCompileOnly "org.projectlombok:lombok:${lombokVersion}"
+        testCompile "junit:junit:${junitVersion}"
+    }
+
+
+    task sourceJar(type: Jar) {
+        classifier = 'sources'
+        from sourceSets.main.allSource
+    }
+    uploadArchives {
+        configuration = configurations.archives
+        repositories {
+            mavenDeployer {
+                snapshotRepository(url: nexusHost + "/content/repositories/snapshots") {
+                    authentication(userName: nexusUser, password: nexusPassword)
+                }
+                repository(url: nexusHost + "/content/repositories/releases") {
+                    authentication(userName: nexusUser, password: nexusPassword)
+                }
+                pom.project {
+                    version "${rootProject.version}"
+                    artifactId "${project.name}"
+                    groupId "${rootProject.group}"
+                    packaging "jar"
+                }
+            }
+        }
+    }
+    artifacts {
+        archives sourceJar
+    }
+}
